@@ -1,4 +1,4 @@
-<div style="background-image: url('https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif'); background-size: cover; background-position: center;">
+<div style="background-image: url('https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif'); background-size: cover; background-position:center;">
 
 <h1 align="center">Hi 👋, I'm MEKIKAT</h1>
 <h3 align="center">A passionate Front End and Backend from Philippinese</h3>
