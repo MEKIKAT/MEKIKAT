@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MEKIKAT</h1>
 <h3 align="center">A passionate Front End and Backend from Philippine </h3>
 
-- 🔭 I’m currently working on [ISU-workload](https://github.com/MEKIKAT/ISE-workloadv2)
+- 🔭 I’m currently studying on [ISU-workload](https://github.com/MEKIKAT/ISE-workloadv2)
 
 - 🌱 I’m currently learning **Frameworks, More about backends, Machine learning, AI and Game Development**
 
