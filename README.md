@@ -1,6 +1,6 @@
 ![Background Image](https://i.pinimg.com/originals/21/e2/e7/21e2e73eb9a9984e3b407328f65f5e5b.gif)
 
-<h1 align="center">Hi 👋, I'm MEKIKAT</h1>
+<h1 align="center">Hi 👋, I'm Kian jae aka. MEKIKAT </h1>
 <h3 align="center">A passionate Front End and Backend from Philippine </h3>
 
 - 🔭 I’m currently studying on [ISU-workload](https://github.com/MEKIKAT/ISE-workloadv2)
