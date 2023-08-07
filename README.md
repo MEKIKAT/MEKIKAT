@@ -1,7 +1,7 @@
 ![Background Image](https://i.pinimg.com/originals/21/e2/e7/21e2e73eb9a9984e3b407328f65f5e5b.gif)
 
 <h1 align="center">Hi 👋, I'm Kian jae aka. MEKIKAT </h1>
-<h3 align="center">A passionate Front End and Backend from Philippine </h3>
+<h3 align="center">A passionate Front End and Backend from Philippines </h3>
 
 - 🔭 I’m currently studying on [Isabela State University Echague Campus ](https://isu.edu.ph)
 
