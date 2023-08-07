@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Kian jae aka. MEKIKAT </h1>
 <h3 align="center">A passionate Front End and Backend from Philippines </h3>
 
-- 🔭 I’m currently studying on [Isabela State University Echague Campus ](https://isu.edu.ph)
-
+- 🔭 Graduate at [Isabela State University Echague Campus ](https://isu.edu.ph)
+- 🎓 Bachelor of Science in Computer Science Gradute 
 - 🌱 I’m currently learning **Frameworks, More about backends, Machine learning, AI and Game Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MEKIKAT/](https://github.com/MEKIKAT/)
