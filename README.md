@@ -10,6 +10,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/MEKIKAT/](https://github.com/MEKIKAT/)
 
 - 📫 How to reach me **mekikat25@gmail.com**
+- 💹 Im available at [https://www.linkedin.com/in/kian-jae-llarinas-001099235/](https://www.linkedin.com/in/kian-jae-llarinas-001099235/)
+- [https://www.upwork.com/freelancers/~0195aa9ec9796bae78](https://www.upwork.com/freelancers/~0195aa9ec9796bae78)
+- [fiverr.com/kianjaellarinas](fiverr.com/kianjaellarinas)
 
 
 <h3 align="left">Connect with me:</h3>
