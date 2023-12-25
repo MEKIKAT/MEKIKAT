@@ -12,6 +12,7 @@
 - 📫 How to reach me **mekikat25@gmail.com**
 - 💹 Im available at [Linkedin](https://www.linkedin.com/in/kian-jae-llarinas-001099235/), [Upwork](https://www.upwork.com/freelancers/~0195aa9ec9796bae78) and [fiverr.](fiverr.com/kianjaellarinas)
 
+GCASH : 09774869544
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
