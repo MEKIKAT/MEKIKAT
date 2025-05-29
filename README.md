@@ -1,10 +1,10 @@
 ![Background Image](https://i.pinimg.com/originals/21/e2/e7/21e2e73eb9a9984e3b407328f65f5e5b.gif)
 
 <h1 align="center">Hi 👋, I'm P4K </h1>
-<h3 align="center">A passionate Front End and Backend from Philippines </h3>
+<h3 align="center">A passionate Developer and enthusiast Cyber-Security</h3>
 
 - 🎓 Bachelor of Science in Computer Science Gradute 
-- 🌱 **Machine learning, CNN, Game Development, Cyber-Security, REDTEAM, CTF CC, NET+,  SEC+ **
+- 🤖 **Machine learning, CNN, Game Development, Cyber-Security, REDTEAM, CTF CC, NET+,  SEC+ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
