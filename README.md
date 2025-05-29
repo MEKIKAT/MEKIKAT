@@ -1,18 +1,10 @@
 ![Background Image](https://i.pinimg.com/originals/21/e2/e7/21e2e73eb9a9984e3b407328f65f5e5b.gif)
 
-<h1 align="center">Hi 👋, I'm Kian jae aka. MEKIKAT </h1>
+<h1 align="center">Hi 👋, I'm Kian aka. Paka </h1>
 <h3 align="center">A passionate Front End and Backend from Philippines </h3>
 
-- 🔭 Graduate at [Isabela State University Echague Campus ](https://isu.edu.ph)
 - 🎓 Bachelor of Science in Computer Science Gradute 
-- 🌱 I’m currently learning **Frameworks, More about backends, Machine learning, AI and Game Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MEKIKAT/](https://github.com/MEKIKAT/)
-
-- 📫 How to reach me **mekikat25@gmail.com**
-- 💹 Im available at [Linkedin](https://www.linkedin.com/in/kian-jae-llarinas-001099235/), [Upwork](https://www.upwork.com/freelancers/~0195aa9ec9796bae78) and [fiverr.](fiverr.com/kianjaellarinas)
-
-GCASH : 09774869544
+- 🌱 **Machine learning, CNN, Game Development, Cyber-Security, REDTEAM, CTF CC, NET+,  SEC+ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
