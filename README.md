@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-B.S.%20Computer%20Science-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/🛡️-SEC%2B%20%7C%20NET%2B%20%7C%20CC-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛡️-######-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚔️-CTF%20Player-red?style=for-the-badge" />
 </p>
 
@@ -16,10 +16,7 @@
 ### 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA%20Network%2B-0073CF?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity%20Certified-00A86B?style=for-the-badge&logo=cybersecurity&logoColor=white" />
+ ########
 </p>
 
 ---
@@ -29,7 +26,7 @@
 - 🎓 **Bachelor of Science in Computer Science** graduate
 - 🧠 Passionate about **Machine Learning**, **CNN**, **Game Development**, and **Cybersecurity**
 - 🔴 Active in **Red Teaming**, **CTF** competitions, and offensive security
-- 🏅 Certified in **Security+**, **Network+**, and **Cisco** networking
+- 🏅 Certified in **#######**
 - 🐏 **Paid projects** are kept private — reach out for collaboration inquiries
 
 ---
