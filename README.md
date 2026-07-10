@@ -13,11 +13,23 @@
 
 ---
 
+### 🏅 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA%20Network%2B-0073CF?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity%20Certified-00A86B?style=for-the-badge&logo=cybersecurity&logoColor=white" />
+</p>
+
+---
+
 ### 🚀 About Me
 
 - 🎓 **Bachelor of Science in Computer Science** graduate
 - 🧠 Passionate about **Machine Learning**, **CNN**, **Game Development**, and **Cybersecurity**
 - 🔴 Active in **Red Teaming**, **CTF** competitions, and offensive security
+- 🏅 Certified in **Security+**, **Network+**, and **Cisco** networking
 - 🐏 **Paid projects** are kept private — reach out for collaboration inquiries
 
 ---
@@ -48,10 +60,33 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekikat&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekikat&show_icons=true&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mekikat&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mekikat&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/mekikat/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mekikat&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/mekikat/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mekikat&repo=project2&theme=radical" />
+  </a>
 </p>
 
 ---
@@ -59,14 +94,14 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/your-id" target="_blank">
+  <a href="https://discord.com/users/666978619825848320" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.hackthebox.com/profile/your-id" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
 </p>
 
@@ -74,4 +109,18 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mekikat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br />
+  <img src="https://img.shields.io/github/followers/mekikat?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mekikat?label=Stars&style=social" alt="Stars" />
 </p>
+
+---
+
+### 🎯 Current Focus
+
+```python
+current_focus = {
+    "learning": ["Advanced Red Teaming", "Malware Analysis", "Cloud Security"],
+    "building": ["CTF Automation Tools", "Network Scanner", "ML Security Models"],
+    "certifications": ["OSCP", "CEH", "CISSP"]
+}
